@@ -1,6 +1,6 @@
 # Clima ☀️
 
-App que proporciona la temperatura desarrolada con Swift ☀️
+App que proporciona la temperatura desarrollada con Swift ☀️
 <br/>
 La app está desarrollada con una [API](https://openweathermap.org/api) y GPS para saber la ubicación del usuario.
 
